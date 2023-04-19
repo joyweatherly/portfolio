@@ -4,8 +4,9 @@
           font-family: Arial;
       }
     	.content {
-        	margin: 20;
+        	  margin: 20;
             font-family: Georgia;
+            line-height: 1.5;
            }
       .navbar {
         overflow: hidden;
